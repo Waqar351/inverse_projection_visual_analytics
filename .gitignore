@@ -3,3 +3,4 @@
 *.pdf
 *.mp4
 *.m4a
+*poetry.lock
