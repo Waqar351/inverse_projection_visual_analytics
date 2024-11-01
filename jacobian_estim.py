@@ -90,3 +90,7 @@ inverse_model.load_state_dict(torch.load('inverse_model.pth', weights_only=True)
 
 model_test(X_test= X_test, y_test= y_test, model=inverse_model)
 
+
+
+
+
