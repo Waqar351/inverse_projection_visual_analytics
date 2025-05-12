@@ -3,5 +3,14 @@
 *.pdf
 *.mp4
 *.m4a
+*.txt
 *poetry.lock
 *.pyc
+__pycache__/
+*.py[cod]
+datasets
+meetings_recordings
+Papers
+thesis_reproduced 
+tSNE_parameter_tuning
+# motivation of work.txt
